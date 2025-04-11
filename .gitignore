@@ -1,0 +1,20 @@
+*.tfstate
+*.tfstate.backup
+
+.terraform/
+.terraform.lock.hcl
+
+terraform.tfvars
+*.tfvars.json
+
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# План Terraform
+*.tfplan
+
+*.auto.tfvars
+
+terraform.log
