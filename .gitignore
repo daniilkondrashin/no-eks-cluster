@@ -12,7 +12,6 @@ override.tf.json
 *_override.tf
 *_override.tf.json
 
-# План Terraform
 *.tfplan
 
 *.auto.tfvars
